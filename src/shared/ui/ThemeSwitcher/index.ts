@@ -1,6 +1,5 @@
-import { ThemeSwitcher } from "./Ui/ThemeSwitcher";
+import { ThemeSwitcher } from './Ui/ThemeSwitcher';
 
 export {
     ThemeSwitcher,
-} 
-    
+};
