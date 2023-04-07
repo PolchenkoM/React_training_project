@@ -5,5 +5,6 @@ import { Configuration as DevServerConfiguration } from 'webpack-dev-server';
         port: options.port,
         open: true,
         historyApiFallback: true,
+        hot:true,
     }
  }
