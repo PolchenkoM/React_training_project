@@ -17,6 +17,7 @@
     animation-delay: -0.5s;
 }
 
+/* stylelint-disable-next-line keyframes-name-pattern */
 @keyframes Loader {
     0% {
         top: 36px;
