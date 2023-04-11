@@ -23,7 +23,6 @@ module.exports = {
         'i18next',
     ],
     rules: {
-        'linebreak-style': 0,
         'react/jsx-indent': [2, 4],
         'react/jsx-indent-props': [2, 4],
         indent: [2, 4],
@@ -42,10 +41,11 @@ module.exports = {
         'import/extensions': 'off',
         'import/no-extraneous-dependencies': 'off',
         'no-underscore-dangle': 'off',
-        'i18next/no-literal-string': ['error',
+        'i18next/no-literal-string': [
+            'error',
             {
                 markupOnly: true,
-                ignoreAttribute: ['data-testid'],
+                ignoreAttribute: ['data-testid', 'to'],
             },
         ],
         'max-len': ['error', { ignoreComments: true, code: 100 }],
