@@ -33,7 +33,7 @@ export const Navbar = ({ className }: NavbarProps) => {
                     onClose={onToggleModal}
                 >
                     {/* eslint-disable-next-line */}
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut repellat nemo, quos soluta iusto alias distinctio nihil, nostrum doloribus accusamus, voluptate facere quasi veritatis beatae odit. Id, vero dolor! Accusantium?
+                    {t('Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut repellat nemo, quos soluta iusto alias distinctio nihil, nostrum doloribus accusamus, voluptate facere quasi veritatis beatae odit. Id, vero dolor! Accusantium?')}
 
                 </Modal>
 
