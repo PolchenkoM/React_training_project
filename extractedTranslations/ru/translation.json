@@ -1,4 +1,6 @@
 {
+  "": "",
+  "Ddtlbnt gfhjkm": "Ddtlbnt gfhjkm",
   "Lorem ipsum dolor sit, amet consectetur adipisicing elit": {
     " Aut repellat nemo, quos soluta iusto alias distinctio nihil, nostrum doloribus accusamus, voluptate facere quasi veritatis beatae odit": {
       " Id, vero dolor! Accusantium?": " Id, vero dolor! Accusantium?"
@@ -7,6 +9,9 @@
   "decrement": "decrement",
   "increment": "increment",
   "throw error": "throw error",
+  "Введите ": "Введите ",
+  "Введите username": "Введите username",
+  "Введите пароль": "Введите пароль",
   "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",
