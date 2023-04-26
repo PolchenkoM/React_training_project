@@ -25,6 +25,15 @@
         "password": "123"
       }
     ],
-    "profile": { "name": "typicode" }
+    "profile": {
+      "first": "Иван",
+      "lastname": "Иванов",
+      "age": 69,
+      "currency": "RUB",
+      "country": "Russia",
+      "city": "Omsk",
+      "username": "admin",
+      "avatar": "https://i.pinimg.com/originals/8a/de/fe/8adefe5af862b4f9cec286c6ee4722cb.jpg"
+    }
   }
   
